@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TerriL\\Documents\\Saul\\OpenAiIntegrationDemo\\OpenAILibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OpenAILibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OpenAILibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\TerriL\\Documents\\Saul\\OpenAiIntegrationDemo\\OpenAILibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\TerriL\\Documents\\Saul\\OpenAiIntegrationDemo\\OpenAILibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OpenAILibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OpenAILibrary.props",
+      "PackagePath": "build\\OpenAILibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OpenAILibrary.props",
+      "PackagePath": "buildMultiTargeting\\OpenAILibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OpenAILibrary.props",
+      "PackagePath": "buildTransitive\\OpenAILibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

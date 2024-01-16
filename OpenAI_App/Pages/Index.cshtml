@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">OpenAI App</h1>
+</div>
+<div>
+    <form method="post">
+        <label for="lname">Enter something:</label>
+        <input type="text" id="input" name="user_input"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+<div>
+    <p>@ViewData["ai_message"]</p>
+</div>
